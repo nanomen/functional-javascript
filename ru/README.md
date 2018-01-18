@@ -9,21 +9,21 @@ This tiny book may only take you 2 hours to read, but it may take you to a journ
 
 If you're kind of:
 
-![](https://raw.githubusercontent.com/jcouyang/functional-javascript/master/ru/images/i%20have%20no%20idea%20what%20im%20doing.jpg)
+![](/ru/images/i%20have%20no%20idea%20what%20im%20doing.jpg)
 
 Plz read [Learn JavaScript](https://www.gitbook.io/book/gitbookio/javascript) first, but if you're just like:
 
-![](https://raw.githubusercontent.com/jcouyang/functional-javascript/master/ru/images/function%20inside%20function.jpg)
+![](/ru/images/function%20inside%20function.jpg)
 
 this book may help you functional stuff at some point.
 
 Если ваши знания JavaScript можно проиллюстрировать картинкой ниже:
 
-![](https://raw.githubusercontent.com/jcouyang/functional-javascript/master/ru/images/i%20have%20no%20idea%20what%20im%20doing.jpg)
+![](/ru/images/i%20have%20no%20idea%20what%20im%20doing.jpg)
 
 Пожалуйста, прочитайте вначале эту книгу [Learn JavaScript](https://www.gitbook.io/book/gitbookio/javascript), но если вы относите себя к такому персонажу:
 
-![](https://raw.githubusercontent.com/jcouyang/functional-javascript/master/ru/images/function%20inside%20function.jpg)
+![](/ru/images/function%20inside%20function.jpg)
 
 то эта книга поможет подннять ваш уровень функционального программирования
 
