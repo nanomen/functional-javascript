@@ -44,7 +44,7 @@ console.log(squareA)  // => function squareA()
 ```
 
 Even `squareA` becomes a named function, but the definition process is different from code below:
-Каждая `squareA` становится именованной функцией, но определение обработки разное из кода ниже:
+Несмотря на то, что  `squareA` становится именованной функцией, всё же процесс определения отличный от кода ниже:
 
 ```js
 function squareB(x){
